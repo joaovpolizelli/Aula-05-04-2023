@@ -41,7 +41,8 @@
     <option value="SE">Sergipe</option>
     <option value="TO">Tocantins</option>
     <option value="EX">Estrangeiro</option>
-</select>
+</select><br>
+Email:<input type="email" name="email">
     <button type="submit">Salvar Cliente</button>
     
 </form>
