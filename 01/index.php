@@ -44,7 +44,17 @@
 </select><br>
 Email:<input type="email" name="email">
     <button type="submit">Salvar Cliente</button>
-    
 </form>
+
+<script>
+
+<?php
+$msg = $_GET["mensagem"] ?? "";
+if($_GET["mensagem"] == "salvo"){
+    echo "alert('Cliente salvo com sucesso!')";
+}
+
+?>
+</script>
 </body>
 </html>

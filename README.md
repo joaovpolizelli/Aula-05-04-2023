@@ -12,4 +12,4 @@
 
 - [ ] listagem dos clientes na tela
 
-- [ ] mostrar mensagem quando o cliente for cadastrado
+- [X] mostrar mensagem quando o cliente for cadastrado
