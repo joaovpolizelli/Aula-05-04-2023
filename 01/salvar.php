@@ -11,7 +11,7 @@ $arquivo = fopen("clientes.csv", "a");
 fwrite($arquivo, $nome . ",");
 fwrite($arquivo, $cidade . ",");
 fwrite($arquivo, $estado . ",");
-fwrite($arquivo, $email);
+fwrite($arquivo, $email . ",");
 fwrite($arquivo, $telefone . "\n");
 
 fclose($arquivo);
