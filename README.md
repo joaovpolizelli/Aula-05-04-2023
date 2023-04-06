@@ -6,7 +6,7 @@
 
 - [X] acrescentar um campo de e-mail
 
-- [ ] tornar o campo nome e telefone obrigatório
+- [X] tornar o campo nome e telefone obrigatório
 
 - [ ] ajustar a qtd de caracteres do telefone para 15
 
